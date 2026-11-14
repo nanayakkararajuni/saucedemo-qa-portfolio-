@@ -192,7 +192,6 @@ The following artifacts will be prepared:
 
 **Planned Completion Date:** 19 November 2026
 
-**Career Fair Portfolio Deadline:** 29 November 2026
 
 This schedule may be adjusted if testing is blocked or additional investigation is required.
 
