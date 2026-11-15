@@ -7,7 +7,7 @@
 - Application: SauceDemo
 - Module: Login
 - Testing Type: Manual Functional Testing
-- Execution Status: Not Started
+- Execution Status: Completed — 5 of 5 test cases executed
 
 ---
 
@@ -40,7 +40,7 @@ to the Products page.
 Successfully log in and redirect to the landing page.
 
 ### Status
- Run
+ pass
 
 ### Evidence
 
@@ -76,7 +76,7 @@ The system should reject the login attempt, display an appropriate error message
 display Username and password do not match any user in this service error massage and keep the user on the login page.
 
 ### Status
- Run
+ pass
 
 ### Evidence
 
@@ -112,7 +112,7 @@ The system should reject the login attempt, display an appropriate error message
 system reject the login, display username is required,  and keep the user on the login page.
 
 ### Status
- Run
+ pass
 
 ### Evidence
 [View Screenshot](../evidence/TC-LOGIN-003.png)
@@ -146,7 +146,7 @@ The system should reject the login attempt, display an appropriate error message
 system reject the login, display password is required,  and keep the user on the login page.
 
 ### Status
-Run
+pass
 
 ### Evidence
 [View Screenshot](../evidence/TC-LOGIN-004.png)
@@ -180,8 +180,26 @@ The system should prevent the user from logging in and display an error message 
 system reject the login, display sorry user has been locked out ,  and keep the user on the login page.
 
 ### Status
- Run
+ pass
 
 ### Evidence
 [View Screenshot](../evidence/TC-LOGIN-005.png)
+
+## Test Execution Summary
+
+| Field | Details |
+|---|---|
+| Application | SauceDemo |
+| Module | Login |
+| Testing Type | Manual Functional Testing |
+| Execution Date | 15 November 2026 |
+| Browser | [Your browser and version] |
+| Operating System | [Your OS] |
+| Total Test Cases | 5 |
+| Executed | 5 |
+| Passed | 5 |
+| Failed | 0 |
+| Blocked | 0 |
+| Not Run | 0 |
+| Execution Status | Completed |
 
