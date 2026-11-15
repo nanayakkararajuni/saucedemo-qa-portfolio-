@@ -43,7 +43,8 @@ Successfully log in and redirect to the landing page.
  Run
 
 ### Evidence
-None yet.
+
+[View Screenshot](../evidence/TC-LOGIN-001.png)
 
 
 
@@ -72,13 +73,14 @@ None yet.
 The system should reject the login attempt, display an appropriate error message indicating invalid credentials, and keep the user on the login page.
 
 ### Actual Result
-Not recorded yet.
+display Username and password do not match any user in this service error massage and keep the user on the login page.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-None yet.
+
+[View Screenshot](../evidence/TC-LOGIN-002.png)
 
 
 
@@ -107,13 +109,13 @@ None yet.
 The system should reject the login attempt, display an appropriate error message indicating username is required , and keep the user on the login page.
 
 ### Actual Result
-Not recorded yet.
+system reject the login, display username is required,  and keep the user on the login page.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-None yet.
+[View Screenshot](../evidence/TC-LOGIN-003.png)
 
 
 ## TC-LOGIN-004:Verify login with empty password
@@ -141,13 +143,13 @@ None yet.
 The system should reject the login attempt, display an appropriate error message indicating Password is required , and keep the user on the login page.
 
 ### Actual Result
-Not recorded yet.
+system reject the login, display password is required,  and keep the user on the login page.
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-None yet.
+[View Screenshot](../evidence/TC-LOGIN-004.png)
 
 
 ## TC-LOGIN-005:Verify login with locked-out user
@@ -175,11 +177,11 @@ None yet.
 The system should prevent the user from logging in and display an error message indicating that the account is locked out.
 
 ### Actual Result
-Not recorded yet.
+system reject the login, display sorry user has been locked out ,  and keep the user on the login page.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-None yet.
+[View Screenshot](../evidence/TC-LOGIN-005.png)
 
