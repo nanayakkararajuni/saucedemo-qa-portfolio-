@@ -37,10 +37,10 @@ The user should be successfully logged in and redirected
 to the Products page.
 
 ### Actual Result
-Not recorded yet.
+Successfully log in and redirect to the landing page.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
 None yet.
