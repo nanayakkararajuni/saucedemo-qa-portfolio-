@@ -69,7 +69,7 @@ None yet.
 4. Click the login buttom
 
 ### Expected Result
-it shows incorrect user name or password and did redirect to landing page
+The system should reject the login attempt, display an appropriate error message indicating invalid credentials, and keep the user on the login page.
 
 ### Actual Result
 Not recorded yet.
@@ -94,7 +94,7 @@ None yet.
 - User is logged out.
 
 ### Test Data
-- Username: 
+- Username:empty
 - Password: `secret_sauce`
 
 ### Test Steps
@@ -104,7 +104,7 @@ None yet.
 4. Click the login buttom
 
 ### Expected Result
-it shows empty feild
+The system should reject the login attempt, display an appropriate error message indicating username is required , and keep the user on the login page.
 
 ### Actual Result
 Not recorded yet.
@@ -129,7 +129,7 @@ None yet.
 
 ### Test Data
 - Username: `standard_user`
-- Password: 
+- Password: empty
 
 ### Test Steps
 1. Open https://www.saucedemo.com/
@@ -138,7 +138,7 @@ None yet.
 4. Click the login buttom
 
 ### Expected Result
-it shows empty feild
+The system should reject the login attempt, display an appropriate error message indicating Password is required , and keep the user on the login page.
 
 ### Actual Result
 Not recorded yet.
