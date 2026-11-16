@@ -21,18 +21,23 @@
 - The user is logged out.
 
 ### Test Data
-- [Username, product, or sample customer data]
+- Username       - standard_user
+- product        - secret_sauce
 
 ### Test Steps
-1. [First action]
-2. [Second action]
-3. [Third action]
+1. Open https://www.saucedemo.com/
+2. Enter standard_user in the Username field.
+3. Enter secret_sauce in the Password field.
+4. Click the Login button.
+5. Verify that the user is redirected to the Products page.
+6. Observe the product listing.
+7. Check whether each displayed product has a name, description, price, image, and Add to cart button.
 
 ### Expected Result
 [Describe the correct system behavior.]
 
 ### Actual Result
-Not recorded yet.
+The system should successfully log in and redirect the user to the Products page. The available products should be displayed with their names, descriptions, prices, images, and Add to cart buttons.
 
 ### Status
 Not Run
