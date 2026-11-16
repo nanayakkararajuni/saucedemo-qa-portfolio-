@@ -9,7 +9,7 @@
 
 ---
 
-##TC-PROD-001: Verify Products Are Displayed After Successful Login
+###TC-PROD-001: Verify Products Are Displayed After Successful Login
 
 **Test Type:** Positive
 **Priority:** High 
@@ -46,7 +46,7 @@ Not Run
 Not collected yet.
 
 
-##TC-PROD-002: Verify Product Sorting by Price (Low to High)
+###TC-PROD-002: Verify Product Sorting by Price (Low to High)
 
 **Test Type:** Positive
 **Priority:** High 
@@ -82,7 +82,7 @@ Not Run
 ### Evidence
 Not collected yet.
 
-##TC-PROD-003: Verify Product Sorting by Price (Low to High)
+###TC-PROD-003: Verify Product Sorting by Price (Low to High)
 
 **Test Type:** Positive
 **Priority:** High 
@@ -120,7 +120,7 @@ Not collected yet.
 
 
 
-##TC-PROD-004: Verify product details open correctly
+###TC-PROD-004: Verify product details open correctly
 
 **Test Type:** Positive
 **Priority:** High 
