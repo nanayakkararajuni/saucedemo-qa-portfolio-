@@ -17,7 +17,7 @@
 ### Preconditions
 - SauceDemo website is accessible.
 - A valid user account is available.
-- The user is logged out.
+- The user is logged in.
 - The user is on the Products page
 - The shopping cart is empty
 
@@ -28,7 +28,7 @@
 - Quantity: 1
 
 ### Test Steps
-1. Open https://www.saucedemo.com/
+1. Open https://www.saucedemo.com/.
 2. Enter standard_user in the Username field.
 3. Enter secret_sauce in the Password field.
 4. Click the Login button.
@@ -65,7 +65,7 @@ Not collected yet.
 ### Preconditions
 - SauceDemo website is accessible.
 - A valid user account is available.
-- The user is logged out.
+- The user is logged in.
 - The shopping cart is initially empty.
 
 ### Test Data
@@ -100,3 +100,46 @@ Not collected yet.
 ---
 
 
+### TC-CART-003: Verify Adding Two Different Products to the Cart.
+
+**Test Type:** Positive  
+**Priority:** High  
+**Module:** shopping cart
+
+### Preconditions
+- SauceDemo website is accessible.
+- A valid user account is available.
+- The user is logged in.
+- The shopping cart is initially empty.
+
+### Test Data
+- Username: standard_user
+- Password: secret_sauce
+- Product: Sauce Labs Backpack
+- product: Sauce Labs Bolt T-Shirt
+- Quantity: 1
+
+### Test Steps
+1.Verify that the user is redirected to the Products page.
+2.Locate the Sauce Labs Backpack product.
+3.Click the Add to cart button for that Sauce Labs Backpack.
+4.Verify that the shopping cart badge displays 1.
+5.Click the Add to cart button for that Sauce Labs Bolt T-Shirt.
+6.Verify that the shopping cart badge displays 1.
+7.Click the shopping cart icon.
+8.Verify that Sauce Labs Backpack appears in the shopping cart with a quantity of 1.
+9.Verify that Sauce Labs Bolt T-Shirt appears in the shopping cart with a quantity of 1.
+
+### Expected Result
+The system should successfully add to the  Sauce Labs Backpack and Sauce Labs Bolt T-Shirt to the shopping cart.
+
+### Actual Result
+Not executed yet.
+
+### Status
+Not Run
+
+### Evidence
+Not collected yet.
+
+---
