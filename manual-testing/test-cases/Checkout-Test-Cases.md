@@ -4,7 +4,7 @@
 - **Application:** SauceDemo
 - **Module:** Checkout
 - **Testing Type:** Manual Functional Testing
-- **Execution Status:** Not Started
+- **Execution Status:** done
 
 ---
 
@@ -44,10 +44,10 @@
 After Successfully submit the  customer information get the comfirmation massage.
 
 ### Actual Result
-Not executed yet.
+After enter customer information and click proceed  , it's goes to Checkout: Overview page and display Payment Information, Shipping Information, Price Total and button  to finished .
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
 Not collected yet.
