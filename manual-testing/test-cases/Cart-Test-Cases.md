@@ -134,7 +134,7 @@ Run
 The system should successfully add to the  Sauce Labs Backpack and Sauce Labs Bolt T-Shirt to the shopping cart.
 
 ### Actual Result
-Not executed yet.
+system successfully add to the  Sauce Labs Backpack and Sauce Labs Bolt T-Shirt to the shopping cart and show quantity and item description with price correctly in cart page, and show button to checkout.
 
 ### Status
  Run
