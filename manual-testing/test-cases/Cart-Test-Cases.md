@@ -45,13 +45,13 @@
 The system should successfully add Sauce Labs Backpack to the shopping cart. The shopping cart badge should display 1, and the selected product should appear on the Cart page with the correct product name and quantity.
 
 ### Actual Result
-Not executed yet.
+Successfully add item to the cart and show quantity and item description with price correctly in cart page, and show button to checkout.
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CART-001.png)
 
 ---
 
@@ -89,13 +89,13 @@ Not collected yet.
 The system should successfully remove Sauce Labs Backpack from the shopping cart. The removed product should no longer appear on the Cart page, and the shopping cart badge should disappear because the cart is empty
 
 ### Actual Result
-Not executed yet.
+System successfully remove the item from cart. 
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CART-002.png)
 
 ---
 
@@ -137,9 +137,9 @@ The system should successfully add to the  Sauce Labs Backpack and Sauce Labs Bo
 Not executed yet.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CART-003.png)
 
 ---
