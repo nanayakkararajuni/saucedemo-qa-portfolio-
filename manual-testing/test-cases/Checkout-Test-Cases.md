@@ -50,7 +50,7 @@ After enter customer information and click proceed  , it's goes to Checkout: Ove
  Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CHK-001.png)
 
 ---
 
@@ -87,17 +87,17 @@ Not collected yet.
 10. Continue to the checkout overview.
 
 ### Expected Result
-System need to give validation massage as first name is required, and stay in checkout page
+System need to give Error massage as first name is required, and stay in checkout page
 
 
 ### Actual Result
-Not executed yet.
+give Error massage as first name is required, did not let finished.
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CHK-002.png)
 
 ---
 
@@ -134,14 +134,14 @@ Not collected yet.
 10. Continue to the checkout overview.
 
 ### Expected Result
-System need to give validation massage as postel code is required, and stay in checkout page
+System need to give Error massage as postel code is required, and stay in checkout page
 
 ### Actual Result
-Not executed yet.
+give Error massage as Postel code is required, did not let finished.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-CHK-003.png)
 
