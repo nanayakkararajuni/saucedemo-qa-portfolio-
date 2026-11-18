@@ -37,13 +37,13 @@
 The system should successfully log in and redirect the user to the Products page. The available products should be displayed with their names, descriptions, prices, images, and Add to cart buttons.
 
 ### Actual Result
-Not executed yet.
+The system  successfully log in and redirect the user to the Products page. The available products displayed with their names, descriptions, prices, images, and Add to cart buttons.
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-PROD-001.png)
 
 ---
 
@@ -70,13 +70,13 @@ Not collected yet.
 The system should display the products in ascending order of price (lowest to highest) without missing or duplicating products.
 
 ### Actual Result
-Not executed yet.
+system display the products in ascending order of price (lowest to highest) without missing or duplicating products.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-PROD-002.png)
 
 ---
 
@@ -103,13 +103,13 @@ Not collected yet.
 The system should display the products in descending order of price (highest to lowest) without missing or duplicating products.
 
 ### Actual Result
-Not executed yet.
+system display the products in descending order of price (highest to lowest) without missing or duplicating products.
 
 ### Status
-Not Run
+Run
 
 ### Evidence
-Not collected yet.
+[View Screenshot](../evidence/TC-PROD-003.png)
 
 ---
 
@@ -135,12 +135,11 @@ Not collected yet.
 The system should open the selected product's details page and correctly display its name, description, price, and image.
 
 ### Actual Result
-Not executed yet.
+The system  open the selected product's details page and correctly display its name, description, price, and image.
 
 ### Status
-Not Run
+ Run
 
 ### Evidence
-Not collected yet.
-
+[View Screenshot](../evidence/TC-PROD-004.png)
 ---
