@@ -4,20 +4,20 @@
 
 | Field | Details |
 |---|---|
-| Project | SauceDemo QA Testing Portfolio |
+| Project | SauceDemo QA Testing  |
 | Report ID | TER-001 |
 | Application Under Test | SauceDemo (Swag Labs) |
 | Application URL | https://www.saucedemo.com/ |
 | Testing Type | Manual Functional Testing and Exploratory Testing |
-| Tester | QA Portfolio Project Owner |
+| Tester | R.P.Nanayakkara |
 | Report Prepared | 19 November 2026 |
-| Test Execution Date(s) | Not provided in the finalized execution records |
-| Browser / Version | Not provided |
-| Operating System | Not provided |
-| Report Status | Completed — based on recorded manual test execution results |
+| Test Execution Date(s) | 11/19/2026 |
+| Browser / Version | chrome |
+| Operating System | Windows |
+| Report Status | Completed |
 | Related Test Plan | [Test-Plan.md](Test-Plan.md) |
 
-> **Evidence note:** Results in this report are based on the tester's supplied execution statuses and exploratory observations. Browser details, precise execution dates, and screenshot filenames were not supplied for this report; no values have been assumed.
+
 
 ## 2. Executive Summary
 
