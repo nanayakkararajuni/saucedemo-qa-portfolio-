@@ -143,27 +143,16 @@ The observations are **not additional formal test cases** and are not added to t
 - [BUG-001 investigation](bug-reports/BUG-001.md)
 - [Evidence folder](evidence/)
 
-Screenshot references, where present, should be inspected in their respective test case or bug report documents. This report does not assert any unverified screenshot filenames.
 
-## 8. Risks and Limitations
 
-1. **Unconfirmed business requirements:** SauceDemo's intended behavior for empty-cart checkout and cart persistence was not established from an authoritative requirement document.
-2. **Limited scenario coverage:** The 15 tests focus on selected user journeys, not every application state or input combination.
-3. **Environment details not supplied:** Browser/version, operating system, and exact test execution dates are not recorded in the data used to prepare this report. Add them from test records if available.
-4. **Exploratory results separate from formal results:** The potential checkout issue was observed outside the 15 predefined tests and must be evaluated separately.
-5. **No production release assessment:** This is a QA portfolio exercise on a demo application, not a certification that the application is free of defects or ready for production.
+
 
 ## 9. Conclusion and Recommended Next Actions
 
-**Conclusion:** The tester executed all **15** planned manual functional test cases across Login, Product Listing, Shopping Cart, and Checkout; all **15 passed**, resulting in **100% pass rate** and **100% execution coverage** for the planned suite. Exploratory testing additionally identified a potential empty-cart checkout issue (**BUG-001**) and cart persistence behavior that merit clarification. There is currently insufficient confirmed requirement information to treat either exploratory observation as a proven defect.
+**Conclusion:**  executed all **15** planned manual functional test cases across Login, Product Listing, Shopping Cart, and Checkout; all **15 passed**, resulting in **100% pass rate** and **100% execution coverage** for the planned suite. Exploratory testing additionally identified a potential empty-cart checkout issue (**BUG-001**) and cart persistence behavior that merit clarification. There is currently insufficient confirmed requirement information to treat either exploratory observation as a proven defect.
 
-**Recommended next actions:**
 
-1. Verify the expected empty-cart checkout business rule and then triage BUG-001 appropriately.
-2. Clarify whether cart persistence across logout/login is intended.
-3. Add actual execution environment details and ensure all evidence links work.
-4. Use the manual test cases as the basis for a small Playwright automation suite.
 
 ---
 
-*Report prepared for the SauceDemo QA Internship Portfolio. All stated test counts come from the tester's finalized execution records.*
+
