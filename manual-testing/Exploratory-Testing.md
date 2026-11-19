@@ -90,4 +90,4 @@ Three behaviors were investigated:
 
 The basic add-and-remove cart functionality behaved as expected. However, the application allowed checkout to be completed with an empty shopping cart, which may represent a business logic defect. Cart persistence after logout also requires clarification of the expected behavior.
 
-Further investigation is recommended for the empty-cart checkout scenario before finalizing a defect report.
+
